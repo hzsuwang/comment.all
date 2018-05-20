@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/admin/war/admin.war.iml" filepath="$PROJECT_DIR$/admin/war/admin.war.iml" />
+      <module fileurl="file://$PROJECT_DIR$/comment.all.iml" filepath="$PROJECT_DIR$/comment.all.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rpc/service/comment.rpc.service.iml" filepath="$PROJECT_DIR$/rpc/service/comment.rpc.service.iml" />
+    </modules>
+  </component>
+</project>
